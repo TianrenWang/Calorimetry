@@ -11,3 +11,11 @@ Description:
 
 Process Used:
 -The team will be using machine learning, TensorFlow, to detect images of specific foods and associate their respective calories to them. The initial database used to categorize the foods will use ~100 pictures of each food against different background and at different angles. 
+
+Test Foods:
+*Apples
+*Oranges
+*clementine
+*Banana
+*peach
+*lemon
