@@ -1,13 +1,12 @@
-Food App for the 2018 Ottawa Hackathon
-
 Team:
 *Alexander Moussa
 *Sam St.
 *Frank
-*Matt
 
 Description:
--A mobile application that allows the user to take a picture of any food and categorizes it by meal while at the same time counting the calories for each meal. An efficient and tech way to keep track of calories consumed throughout the day.
+The original purpose of this project was to create an app that calculates calorie of food in pictures and allows the users to manage their calorie intake. Because our team is composed of beginners in machine learning and app development, we started with the fundamental and created a simple app that recognizes fruits.
+
+The original idea of this project came from one of our members (Alexander Amous) who is planning to build a business around this app. The next step of this project is to be able to calculate calorie from pictures after classifying them into specific food.
 
 Process Used:
--The team will be using machine learning, TensorFlow, to detect images of specific foods and associate their respective calories to them. The initial database used to categorize the foods will use ~100 pictures of each food against different background and at different angles. 
+We used TensorFlow to train a learner to recognize images of fruits. The training dataset consisted of roughly 100 images of each fruit (Apple, Banana, Lemon, Peach, and Orange) as well as the background. The fruit images were downloaded from https://github.com/Horea94/Fruit-Images-Dataset.
