@@ -4,6 +4,25 @@
             "outputFile": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
             "map": [
                 {
+                    "source": "/Users/zakled/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.0.0.aar/c3c813d9a9a4b78f52ae1d407dcdcd8d/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,7,8,9,10,17,19,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,178,240,989,1048,1105,1159,1573,1637,1763",
+                        "endLines": "2,3,4,5,7,8,9,16,18,21,24",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "111,173,235,299,1043,1100,1154,1568,1632,1758,1886"
+                    },
+                    "to": {
+                        "startLines": "91,92,93,94,99,100,101,102,109,111,114",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4270,4331,4393,4455,10137,10196,10253,10307,10721,10785,10911",
+                        "endLines": "91,92,93,94,99,100,101,108,110,113,116",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "4326,4388,4450,4514,10191,10248,10302,10716,10780,10906,11034"
+                    }
+                },
+                {
                     "source": "/Users/zakled/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3d0875be282039ea18bbcc834407afe5/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,7,8,11,14,15,18,21,22,23,24,28,29,30,31,36,37,38,41,44,45,48,51,54,57,58,61,64,65,70,71,75,76,77,78,79,80,81,82,83,84,85",

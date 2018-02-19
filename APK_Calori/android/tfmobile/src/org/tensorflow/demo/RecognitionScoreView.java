@@ -16,6 +16,7 @@ limitations under the License.
 package org.tensorflow.demo;
 
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.util.AttributeSet;
@@ -24,6 +25,7 @@ import android.view.View;
 
 import org.tensorflow.demo.Classifier.Recognition;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class RecognitionScoreView extends View implements ResultsView {
@@ -52,7 +54,6 @@ public class RecognitionScoreView extends View implements ResultsView {
     this.results = results;
     postInvalidate();
   }
-
 
   @Override
   public void onDraw(final Canvas canvas) {

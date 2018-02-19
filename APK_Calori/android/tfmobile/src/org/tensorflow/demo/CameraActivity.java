@@ -27,11 +27,14 @@ import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.HandlerThread;
+import android.support.v7.widget.CardView;
 import android.util.Size;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
+import android.widget.ListView;
+import android.widget.TextView;
 import android.widget.Toast;
 import java.nio.ByteBuffer;
 import org.tensorflow.demo.env.Logger;
@@ -49,6 +52,8 @@ public abstract class CameraActivity extends Activity implements OnImageAvailabl
 
   private Handler handler;
   private HandlerThread handlerThread;
+  Button btnClickMe;
+
 
   @Override
   protected void onCreate(final Bundle savedInstanceState) {
@@ -64,6 +69,37 @@ public abstract class CameraActivity extends Activity implements OnImageAvailabl
       requestPermission();
     }
 
+    btnClickMe = (Button) findViewById(R.id.foodSavingButton);
+    btnClickMe.setOnClickListener(new View.OnClickListener() {
+      @Override
+      public void onClick(View view) {
+        //startActivity(new Intent(this, CaloriesActivity.class));
+        setContentView(R.layout.calories);
+        //TextView hell = (TextView) findViewById((R.id.txt6));
+        String newmsg = getTitle() + "      " + calories(getTitle().toString());
+        //hell.setText(newmsg);
+        CardView cardView = (CardView) findViewById(R.id.card_view);
+
+        String title  = getIntent().getExtras().getString("value");
+
+        TextView infotext = (TextView) findViewById(R.id.info_text);
+        infotext.setText(title);
+
+        Button btn = (Button) findViewById(R.id.back);
+        btn.setOnClickListener(new View.OnClickListener() {
+          @Override
+          public void onClick(View view) {
+
+            setContentView(R.layout.activity_camera);
+          }
+        });
+
+        //infotext.setText(title);
+        /*ListView helloListView = (ListView) findViewById(R.id.list1);
+        helloListView.addHeaderView(hell);*/
+      }
+    });
+
 
   }
 
@@ -71,7 +107,7 @@ public abstract class CameraActivity extends Activity implements OnImageAvailabl
   public synchronized void onStart() {
     LOGGER.d("onStart " + this);
     super.onStart();
-    setContentView(R.layout.camera_connection_fragment);
+    //setContentView(R.layout.camera_connection_fragment);
   }
 
   @Override
@@ -82,6 +118,27 @@ public abstract class CameraActivity extends Activity implements OnImageAvailabl
     handlerThread = new HandlerThread("inference");
     handlerThread.start();
     handler = new Handler(handlerThread.getLooper());
+  }
+  public String calories(String title) {
+    String cal = "";
+
+    if (title.equals("Apple")) {
+      cal = "52";
+    }
+    if (title.equals("Banana")) {
+      cal = "89";
+    }
+    if (title.equals("Orange")) {
+      cal = "47";
+    }
+    if (title.equals("Peach")) {
+      cal = "39";
+    }
+    if (title.equals("Lemon")) {
+      cal = "29";
+    }
+
+    return cal;
   }
 
   @Override

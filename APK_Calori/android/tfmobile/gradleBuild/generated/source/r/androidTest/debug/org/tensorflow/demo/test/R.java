@@ -10,16 +10,96 @@ package org.tensorflow.demo.test;
 public final class R {
   public static final class attr {
     /**
+     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
+     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
+     * "<code>#<i>aarrggbb</i></code>".
+     */
+    public static final int cardBackgroundColor=0x7f010000;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int cardCornerRadius=0x7f010001;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int cardElevation=0x7f010002;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int cardMaxElevation=0x7f010003;
+    /**
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     */
+    public static final int cardPreventCornerOverlap=0x7f010004;
+    /**
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     */
+    public static final int cardUseCompatPadding=0x7f010005;
+    /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int constraintSet=0x7f010000;
+    public static final int constraintSet=0x7f010006;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int contentPadding=0x7f010007;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int contentPaddingBottom=0x7f010008;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int contentPaddingLeft=0x7f010009;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int contentPaddingRight=0x7f01000a;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int contentPaddingTop=0x7f01000b;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      */
-    public static final int layout_constraintBaseline_creator=0x7f010001;
+    public static final int layout_constraintBaseline_creator=0x7f01000c;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -34,11 +114,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintBaseline_toBaselineOf=0x7f010002;
+    public static final int layout_constraintBaseline_toBaselineOf=0x7f01000d;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      */
-    public static final int layout_constraintBottom_creator=0x7f010003;
+    public static final int layout_constraintBottom_creator=0x7f01000e;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -53,7 +133,7 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintBottom_toBottomOf=0x7f010004;
+    public static final int layout_constraintBottom_toBottomOf=0x7f01000f;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -68,12 +148,12 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintBottom_toTopOf=0x7f010005;
+    public static final int layout_constraintBottom_toTopOf=0x7f010010;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int layout_constraintDimensionRatio=0x7f010006;
+    public static final int layout_constraintDimensionRatio=0x7f010011;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -88,7 +168,7 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintEnd_toEndOf=0x7f010007;
+    public static final int layout_constraintEnd_toEndOf=0x7f010012;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -103,7 +183,7 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintEnd_toStartOf=0x7f010008;
+    public static final int layout_constraintEnd_toStartOf=0x7f010013;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -111,7 +191,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_constraintGuide_begin=0x7f010009;
+    public static final int layout_constraintGuide_begin=0x7f010014;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -119,11 +199,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_constraintGuide_end=0x7f01000a;
+    public static final int layout_constraintGuide_end=0x7f010015;
     /**
      * <p>May be a floating point value, such as "<code>1.2</code>".
      */
-    public static final int layout_constraintGuide_percent=0x7f01000b;
+    public static final int layout_constraintGuide_percent=0x7f010016;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -135,7 +215,7 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintHeight_default=0x7f01000c;
+    public static final int layout_constraintHeight_default=0x7f010017;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -143,7 +223,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_constraintHeight_max=0x7f01000d;
+    public static final int layout_constraintHeight_max=0x7f010018;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -151,11 +231,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_constraintHeight_min=0x7f01000e;
+    public static final int layout_constraintHeight_min=0x7f010019;
     /**
      * <p>May be a floating point value, such as "<code>1.2</code>".
      */
-    public static final int layout_constraintHorizontal_bias=0x7f01000f;
+    public static final int layout_constraintHorizontal_bias=0x7f01001a;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -168,15 +248,15 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintHorizontal_chainStyle=0x7f010010;
+    public static final int layout_constraintHorizontal_chainStyle=0x7f01001b;
     /**
      * <p>May be a floating point value, such as "<code>1.2</code>".
      */
-    public static final int layout_constraintHorizontal_weight=0x7f010011;
+    public static final int layout_constraintHorizontal_weight=0x7f01001c;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      */
-    public static final int layout_constraintLeft_creator=0x7f010012;
+    public static final int layout_constraintLeft_creator=0x7f01001d;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -191,7 +271,7 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintLeft_toLeftOf=0x7f010013;
+    public static final int layout_constraintLeft_toLeftOf=0x7f01001e;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -206,11 +286,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintLeft_toRightOf=0x7f010014;
+    public static final int layout_constraintLeft_toRightOf=0x7f01001f;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      */
-    public static final int layout_constraintRight_creator=0x7f010015;
+    public static final int layout_constraintRight_creator=0x7f010020;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -225,7 +305,7 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintRight_toLeftOf=0x7f010016;
+    public static final int layout_constraintRight_toLeftOf=0x7f010021;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -240,7 +320,7 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintRight_toRightOf=0x7f010017;
+    public static final int layout_constraintRight_toRightOf=0x7f010022;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -255,7 +335,7 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintStart_toEndOf=0x7f010018;
+    public static final int layout_constraintStart_toEndOf=0x7f010023;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -270,11 +350,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintStart_toStartOf=0x7f010019;
+    public static final int layout_constraintStart_toStartOf=0x7f010024;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      */
-    public static final int layout_constraintTop_creator=0x7f01001a;
+    public static final int layout_constraintTop_creator=0x7f010025;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -289,7 +369,7 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintTop_toBottomOf=0x7f01001b;
+    public static final int layout_constraintTop_toBottomOf=0x7f010026;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -304,11 +384,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintTop_toTopOf=0x7f01001c;
+    public static final int layout_constraintTop_toTopOf=0x7f010027;
     /**
      * <p>May be a floating point value, such as "<code>1.2</code>".
      */
-    public static final int layout_constraintVertical_bias=0x7f01001d;
+    public static final int layout_constraintVertical_bias=0x7f010028;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -321,11 +401,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintVertical_chainStyle=0x7f01001e;
+    public static final int layout_constraintVertical_chainStyle=0x7f010029;
     /**
      * <p>May be a floating point value, such as "<code>1.2</code>".
      */
-    public static final int layout_constraintVertical_weight=0x7f01001f;
+    public static final int layout_constraintVertical_weight=0x7f01002a;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -337,7 +417,7 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      */
-    public static final int layout_constraintWidth_default=0x7f010020;
+    public static final int layout_constraintWidth_default=0x7f01002b;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -345,7 +425,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_constraintWidth_max=0x7f010021;
+    public static final int layout_constraintWidth_max=0x7f01002c;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -353,7 +433,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_constraintWidth_min=0x7f010022;
+    public static final int layout_constraintWidth_min=0x7f01002d;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -361,7 +441,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_editor_absoluteX=0x7f010023;
+    public static final int layout_editor_absoluteX=0x7f01002e;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -369,7 +449,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_editor_absoluteY=0x7f010024;
+    public static final int layout_editor_absoluteY=0x7f01002f;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -377,7 +457,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_goneMarginBottom=0x7f010025;
+    public static final int layout_goneMarginBottom=0x7f010030;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -385,7 +465,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_goneMarginEnd=0x7f010026;
+    public static final int layout_goneMarginEnd=0x7f010031;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -393,7 +473,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_goneMarginLeft=0x7f010027;
+    public static final int layout_goneMarginLeft=0x7f010032;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -401,7 +481,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_goneMarginRight=0x7f010028;
+    public static final int layout_goneMarginRight=0x7f010033;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -409,7 +489,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_goneMarginStart=0x7f010029;
+    public static final int layout_goneMarginStart=0x7f010034;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -417,7 +497,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int layout_goneMarginTop=0x7f01002a;
+    public static final int layout_goneMarginTop=0x7f010035;
     /**
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -431,20 +511,239 @@ public final class R {
      * <tr><td>none</td><td>1</td><td></td></tr>
      * </table>
      */
-    public static final int layout_optimizationLevel=0x7f01002b;
+    public static final int layout_optimizationLevel=0x7f010036;
+  }
+  public static final class color {
+    public static final int cardview_dark_background=0x7f020000;
+    public static final int cardview_light_background=0x7f020001;
+    public static final int cardview_shadow_end_color=0x7f020002;
+    public static final int cardview_shadow_start_color=0x7f020003;
+  }
+  public static final class dimen {
+    public static final int cardview_compat_inset_shadow=0x7f030000;
+    public static final int cardview_default_elevation=0x7f030001;
+    public static final int cardview_default_radius=0x7f030002;
   }
   public static final class id {
-    public static final int all=0x7f020000;
-    public static final int basic=0x7f020001;
-    public static final int chains=0x7f020002;
-    public static final int none=0x7f020003;
-    public static final int packed=0x7f020004;
-    public static final int parent=0x7f020005;
-    public static final int spread=0x7f020006;
-    public static final int spread_inside=0x7f020007;
-    public static final int wrap=0x7f020008;
+    public static final int all=0x7f040000;
+    public static final int basic=0x7f040001;
+    public static final int chains=0x7f040002;
+    public static final int none=0x7f040003;
+    public static final int packed=0x7f040004;
+    public static final int parent=0x7f040005;
+    public static final int spread=0x7f040006;
+    public static final int spread_inside=0x7f040007;
+    public static final int wrap=0x7f040008;
+  }
+  public static final class style {
+    public static final int Base_CardView=0x7f050000;
+    public static final int CardView=0x7f050001;
+    public static final int CardView_Dark=0x7f050002;
+    public static final int CardView_Light=0x7f050003;
   }
   public static final class styleable {
+    /**
+     * Attributes that can be used with a CardView.
+     * <p>Includes the following attributes:</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Attribute</th><th>Description</th></tr>
+     * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor org.tensorflow.demo.test:cardBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius org.tensorflow.demo.test:cardCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation org.tensorflow.demo.test:cardElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation org.tensorflow.demo.test:cardMaxElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap org.tensorflow.demo.test:cardPreventCornerOverlap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding org.tensorflow.demo.test:cardUseCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding org.tensorflow.demo.test:contentPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom org.tensorflow.demo.test:contentPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft org.tensorflow.demo.test:contentPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight org.tensorflow.demo.test:contentPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop org.tensorflow.demo.test:contentPaddingTop}</code></td><td></td></tr>
+     * </table>
+     * @see #CardView_android_minWidth
+     * @see #CardView_android_minHeight
+     * @see #CardView_cardBackgroundColor
+     * @see #CardView_cardCornerRadius
+     * @see #CardView_cardElevation
+     * @see #CardView_cardMaxElevation
+     * @see #CardView_cardPreventCornerOverlap
+     * @see #CardView_cardUseCompatPadding
+     * @see #CardView_contentPadding
+     * @see #CardView_contentPaddingBottom
+     * @see #CardView_contentPaddingLeft
+     * @see #CardView_contentPaddingRight
+     * @see #CardView_contentPaddingTop
+     */
+    public static final int[] CardView={
+        0x0101013f, 0x01010140, 0x7f010000, 0x7f010001, 
+        0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005, 
+        0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a, 
+        0x7f01000b
+      };
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#minHeight}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:minHeight
+     */
+    public static final int CardView_android_minHeight=1;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#minWidth}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:minWidth
+     */
+    public static final int CardView_android_minWidth=0;
+    /**
+     * <p>This symbol is the offset where the {@link org.tensorflow.demo.test.R.attr#cardBackgroundColor}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
+     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
+     * "<code>#<i>aarrggbb</i></code>".
+     *
+     * @attr name org.tensorflow.demo.test:cardBackgroundColor
+     */
+    public static final int CardView_cardBackgroundColor=2;
+    /**
+     * <p>This symbol is the offset where the {@link org.tensorflow.demo.test.R.attr#cardCornerRadius}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name org.tensorflow.demo.test:cardCornerRadius
+     */
+    public static final int CardView_cardCornerRadius=3;
+    /**
+     * <p>This symbol is the offset where the {@link org.tensorflow.demo.test.R.attr#cardElevation}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name org.tensorflow.demo.test:cardElevation
+     */
+    public static final int CardView_cardElevation=4;
+    /**
+     * <p>This symbol is the offset where the {@link org.tensorflow.demo.test.R.attr#cardMaxElevation}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name org.tensorflow.demo.test:cardMaxElevation
+     */
+    public static final int CardView_cardMaxElevation=5;
+    /**
+     * <p>This symbol is the offset where the {@link org.tensorflow.demo.test.R.attr#cardPreventCornerOverlap}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     *
+     * @attr name org.tensorflow.demo.test:cardPreventCornerOverlap
+     */
+    public static final int CardView_cardPreventCornerOverlap=6;
+    /**
+     * <p>This symbol is the offset where the {@link org.tensorflow.demo.test.R.attr#cardUseCompatPadding}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     *
+     * @attr name org.tensorflow.demo.test:cardUseCompatPadding
+     */
+    public static final int CardView_cardUseCompatPadding=7;
+    /**
+     * <p>This symbol is the offset where the {@link org.tensorflow.demo.test.R.attr#contentPadding}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name org.tensorflow.demo.test:contentPadding
+     */
+    public static final int CardView_contentPadding=8;
+    /**
+     * <p>This symbol is the offset where the {@link org.tensorflow.demo.test.R.attr#contentPaddingBottom}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name org.tensorflow.demo.test:contentPaddingBottom
+     */
+    public static final int CardView_contentPaddingBottom=9;
+    /**
+     * <p>This symbol is the offset where the {@link org.tensorflow.demo.test.R.attr#contentPaddingLeft}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name org.tensorflow.demo.test:contentPaddingLeft
+     */
+    public static final int CardView_contentPaddingLeft=10;
+    /**
+     * <p>This symbol is the offset where the {@link org.tensorflow.demo.test.R.attr#contentPaddingRight}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name org.tensorflow.demo.test:contentPaddingRight
+     */
+    public static final int CardView_contentPaddingRight=11;
+    /**
+     * <p>This symbol is the offset where the {@link org.tensorflow.demo.test.R.attr#contentPaddingTop}
+     * attribute's value can be found in the {@link #CardView} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name org.tensorflow.demo.test:contentPaddingTop
+     */
+    public static final int CardView_contentPaddingTop=12;
     /**
      * Attributes that can be used with a ConstraintLayout_Layout.
      * <p>Includes the following attributes:</p>
@@ -554,18 +853,18 @@ public final class R {
      */
     public static final int[] ConstraintLayout_Layout={
         0x010100c4, 0x0101011f, 0x01010120, 0x0101013f, 
-        0x01010140, 0x7f010000, 0x7f010001, 0x7f010002, 
-        0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006, 
-        0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a, 
-        0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e, 
-        0x7f01000f, 0x7f010010, 0x7f010011, 0x7f010012, 
-        0x7f010013, 0x7f010014, 0x7f010015, 0x7f010016, 
-        0x7f010017, 0x7f010018, 0x7f010019, 0x7f01001a, 
-        0x7f01001b, 0x7f01001c, 0x7f01001d, 0x7f01001e, 
-        0x7f01001f, 0x7f010020, 0x7f010021, 0x7f010022, 
-        0x7f010023, 0x7f010024, 0x7f010025, 0x7f010026, 
-        0x7f010027, 0x7f010028, 0x7f010029, 0x7f01002a, 
-        0x7f01002b
+        0x01010140, 0x7f010006, 0x7f01000c, 0x7f01000d, 
+        0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011, 
+        0x7f010012, 0x7f010013, 0x7f010014, 0x7f010015, 
+        0x7f010016, 0x7f010017, 0x7f010018, 0x7f010019, 
+        0x7f01001a, 0x7f01001b, 0x7f01001c, 0x7f01001d, 
+        0x7f01001e, 0x7f01001f, 0x7f010020, 0x7f010021, 
+        0x7f010022, 0x7f010023, 0x7f010024, 0x7f010025, 
+        0x7f010026, 0x7f010027, 0x7f010028, 0x7f010029, 
+        0x7f01002a, 0x7f01002b, 0x7f01002c, 0x7f01002d, 
+        0x7f01002e, 0x7f01002f, 0x7f010030, 0x7f010031, 
+        0x7f010032, 0x7f010033, 0x7f010034, 0x7f010035, 
+        0x7f010036
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#maxHeight}
@@ -1422,17 +1721,17 @@ public final class R {
         0x010100fa, 0x0101031f, 0x01010320, 0x01010321, 
         0x01010322, 0x01010323, 0x01010324, 0x01010325, 
         0x01010327, 0x01010328, 0x010103b5, 0x010103b6, 
-        0x010103fa, 0x01010440, 0x7f010001, 0x7f010002, 
-        0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006, 
-        0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a, 
-        0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e, 
-        0x7f01000f, 0x7f010010, 0x7f010011, 0x7f010012, 
-        0x7f010013, 0x7f010014, 0x7f010015, 0x7f010016, 
-        0x7f010017, 0x7f010018, 0x7f010019, 0x7f01001a, 
-        0x7f01001b, 0x7f01001c, 0x7f01001d, 0x7f01001e, 
-        0x7f01001f, 0x7f010020, 0x7f010021, 0x7f010022, 
-        0x7f010023, 0x7f010024, 0x7f010025, 0x7f010026, 
-        0x7f010027, 0x7f010028, 0x7f010029, 0x7f01002a
+        0x010103fa, 0x01010440, 0x7f01000c, 0x7f01000d, 
+        0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011, 
+        0x7f010012, 0x7f010013, 0x7f010014, 0x7f010015, 
+        0x7f010016, 0x7f010017, 0x7f010018, 0x7f010019, 
+        0x7f01001a, 0x7f01001b, 0x7f01001c, 0x7f01001d, 
+        0x7f01001e, 0x7f01001f, 0x7f010020, 0x7f010021, 
+        0x7f010022, 0x7f010023, 0x7f010024, 0x7f010025, 
+        0x7f010026, 0x7f010027, 0x7f010028, 0x7f010029, 
+        0x7f01002a, 0x7f01002b, 0x7f01002c, 0x7f01002d, 
+        0x7f01002e, 0x7f01002f, 0x7f010030, 0x7f010031, 
+        0x7f010032, 0x7f010033, 0x7f010034, 0x7f010035
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#alpha}

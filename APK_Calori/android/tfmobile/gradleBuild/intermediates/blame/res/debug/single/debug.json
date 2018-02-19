@@ -8,12 +8,12 @@
         "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/drawable-hdpi/ic_action_info.png"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_info.png.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/drawable-xxhdpi/ic_action_info.png"
-    },
-    {
         "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/layout_activity_camera.xml.flat",
         "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/drawable-xxhdpi/ic_action_info.png"
     },
     {
         "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/layout_activity_camera.xml.flat",

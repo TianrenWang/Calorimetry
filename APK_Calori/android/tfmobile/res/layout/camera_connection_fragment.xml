@@ -37,13 +37,5 @@
         android:layout_height="match_parent"
         android:layout_alignParentBottom="true" />
 
-    <Button
-        android:id="@+id/foodSavingButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/results"
-        android:layout_centerHorizontal="true"
-        android:text="Save ma food" />
-
 
 </RelativeLayout>

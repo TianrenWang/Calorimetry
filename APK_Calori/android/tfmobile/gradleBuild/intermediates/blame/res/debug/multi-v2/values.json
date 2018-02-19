@@ -6,16 +6,18 @@
                 {
                     "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/values/styles.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "658",
+                        "endColumns": "95",
+                        "endOffsets": "749"
                     },
                     "to": {
-                        "startLines": "111",
+                        "startLines": "134",
                         "startColumns": "4",
-                        "startOffsets": "10309",
+                        "startOffsets": "12145",
                         "endColumns": "94",
-                        "endOffsets": "10399"
+                        "endOffsets": "12235"
                     }
                 },
                 {
@@ -28,52 +30,71 @@
                         "endOffsets": "707"
                     },
                     "to": {
-                        "startLines": "91",
+                        "startLines": "95",
                         "startColumns": "4",
-                        "startOffsets": "4270",
+                        "startOffsets": "4519",
                         "endColumns": "52",
-                        "endOffsets": "4318"
+                        "endOffsets": "4567"
                     }
                 },
                 {
                     "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/values/template-dimens.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "972,893,849,804,761,719,1042",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1037,931,888,844,799,756,1105"
                     },
                     "to": {
-                        "startLines": "96,97,98,99,100,101,102",
+                        "startLines": "104,105,106,107,108,109,110",
                         "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "9441,9511,9554,9598,9643,9686,9728",
+                        "startOffsets": "10545,10615,10658,10702,10747,10790,10832",
                         "endColumns": "69,42,43,44,42,41,67",
-                        "endOffsets": "9506,9549,9593,9638,9681,9723,9791"
+                        "endOffsets": "10610,10653,10697,10742,10785,10827,10895"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/c0a755b7b6c0ad5d03524cce8711e681/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,7,8,9,10,17,19,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,178,240,989,1048,1105,1159,1573,1637,1763",
+                        "endLines": "2,3,4,5,7,8,9,16,18,21,24",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "111,173,235,299,1043,1100,1154,1568,1632,1758,1886"
+                    },
+                    "to": {
+                        "startLines": "91,92,93,94,101,102,103,119,126,128,131",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4270,4331,4393,4455,10375,10434,10491,11413,11827,11891,12017",
+                        "endLines": "91,92,93,94,101,102,103,125,127,130,133",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "4326,4388,4450,4514,10429,10486,10540,11822,11886,12012,12140"
                     }
                 },
                 {
                     "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/values/template-styles.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "781,664,726,862,891,1088",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "828,720,775,885,1082,1361"
                     },
                     "to": {
-                        "startLines": "110,112,113,114,115,119",
+                        "startLines": "118,135,136,137,138,142",
                         "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "10258,10404,10464,10517,10544,10740",
-                        "endLines": "110,112,113,114,118,124",
+                        "startOffsets": "11362,12240,12300,12353,12380,12576",
+                        "endLines": "118,135,136,137,141,147",
                         "endColumns": "50,59,52,26,12,12",
-                        "endOffsets": "10304,10459,10512,10539,10735,11013"
+                        "endOffsets": "11408,12295,12348,12375,12571,12849"
                     }
                 },
                 {
                     "source": "/Users/zakled/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3d0875be282039ea18bbcc834407afe5/res/values/values.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
                         "startLines": "2,3,4,7,8,11,14,15,18,21,22,23,24,28,29,30,31,36,37,38,41,44,45,48,51,54,57,58,61,64,65,70,71,75,76,77,78,79,80,81,82,83,84,85",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
                         "startOffsets": "55,107,177,310,378,507,633,700,823,948,1015,1080,1145,1285,1351,1417,1484,1694,1763,1829,1954,2080,2147,2273,2400,2525,2652,2717,2843,2966,3031,3239,3306,3445,3510,3575,3637,3699,3761,3820,3880,3941,4002,4061",
@@ -85,31 +106,35 @@
                 {
                     "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/values/base-strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1"
+                        "startLines": "19,20,21,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "713,782,844,660",
+                        "endColumns": "68,61,60,52",
+                        "endOffsets": "777,839,900,708"
                     },
                     "to": {
-                        "startLines": "103,104,105,106",
+                        "startLines": "111,112,113,114",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "9796,9865,9927,9988",
+                        "startOffsets": "10900,10969,11031,11092",
                         "endColumns": "68,61,60,52",
-                        "endOffsets": "9860,9922,9983,10036"
+                        "endOffsets": "10964,11026,11087,11140"
                     }
                 },
                 {
                     "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/values/strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1",
-                        "startColumns": "-1,-1,-1",
-                        "startOffsets": "-1,-1,-1"
+                        "startLines": "18,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "792,658,708",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "870,703,787"
                     },
                     "to": {
-                        "startLines": "107,108,109",
+                        "startLines": "115,116,117",
                         "startColumns": "4,4,4",
-                        "startOffsets": "10041,10124,10174",
+                        "startOffsets": "11145,11228,11278",
                         "endColumns": "82,49,83",
-                        "endOffsets": "10119,10169,10253"
+                        "endOffsets": "11223,11273,11357"
                     }
                 }
             ]

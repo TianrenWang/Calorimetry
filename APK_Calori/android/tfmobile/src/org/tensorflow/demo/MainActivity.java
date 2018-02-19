@@ -13,7 +13,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
     //Declaration Button
     Button btnClickMe;
-    final ListView helloListView = (ListView) findViewById(R.id.list1);
+    //final ListView helloListView = (ListView) findViewById(R.id.list1);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,10 +34,10 @@ public class MainActivity extends Activity implements View.OnClickListener {
         //  test.setText(getTitle()+"      "+calories(getTitle()));
         startActivity(new Intent(this, CaloriesActivity.class));
         setContentView(R.layout.calories);
-        TextView hell = (TextView) findViewById((R.id.txt6));
+        //TextView hell = (TextView) findViewById((R.id.txt6));
         String newmsg = getTitle() + "      " + calories(getTitle().toString());
-        hell.setText(newmsg);
-        helloListView.addHeaderView(hell);
+        //hell.setText(newmsg);
+        //helloListView.addHeaderView(hell);
     }
 
     public String calories(String title){
