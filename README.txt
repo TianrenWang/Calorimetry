@@ -22,5 +22,3 @@ Process Used:
 We used TensorFlow to train a learner to recognize images of fruits. The training dataset consisted of roughly 100 images of each fruit (Apple, Banana, Lemon, Peach, and Orange) as well as the background. The fruit images were downloaded from https://github.com/Horea94/Fruit-Images-Dataset.
 
 
-
-

@@ -1,110 +1,166 @@
 [
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/drawable-mdpi/ic_launcher.png"
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\drawable-hdpi\\ic_action_info.png"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_ic_action_info.png.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/drawable-hdpi/ic_action_info.png"
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\layout\\activity_camera.xml"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/layout_activity_camera.xml.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/layout/activity_camera.xml"
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_calories.xml.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\layout\\calories.xml"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_info.png.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/drawable-xxhdpi/ic_action_info.png"
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\drawable-xhdpi\\ic_action_info.png"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/layout_activity_camera.xml.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/layout/activity_camera.xml"
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_info.png.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/drawable-xxhdpi/ic_action_info.png"
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_stylize.xml.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\layout\\camera_connection_fragment_stylize.xml"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/layout_camera_connection_fragment_tracking.xml.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/layout/camera_connection_fragment_tracking.xml"
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-hdpi\\tile.9.png"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/drawable-mdpi/ic_launcher.png"
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-hdpi\\ic_action_info.png"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-xxhdpi\\ic_action_info.png"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_ic_action_info.png.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/drawable-hdpi/ic_action_info.png"
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-xxhdpi\\ic_action_info.png"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/layout_camera_connection_fragment.xml.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/layout/camera_connection_fragment.xml"
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/layout_camera_connection_fragment_stylize.xml.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/layout/camera_connection_fragment_stylize.xml"
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\drawable-hdpi\\tile.9.png"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_tile.9.png.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/drawable-hdpi/tile.9.png"
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment.xml.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\layout\\camera_connection_fragment.xml"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-mdpi_ic_action_info.png.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/drawable-mdpi/ic_action_info.png"
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\drawable-mdpi\\ic_action_info.png"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/drawable-hdpi/ic_launcher.png"
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_calories.xml.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\layout\\calories.xml"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/layout_calories.xml.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/layout/calories.xml"
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_stylize.xml.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\layout\\camera_connection_fragment_stylize.xml"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/drawable-hdpi/ic_launcher.png"
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_tracking.xml.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\layout\\camera_connection_fragment_tracking.xml"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\layout\\activity_camera.xml"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-mdpi_ic_action_info.png.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/drawable-mdpi/ic_action_info.png"
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-mdpi\\ic_action_info.png"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/layout_camera_connection_fragment_tracking.xml.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/layout/camera_connection_fragment_tracking.xml"
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment.xml.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\layout\\camera_connection_fragment.xml"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi_ic_action_info.png.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/drawable-xhdpi/ic_action_info.png"
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/layout_camera_connection_fragment_stylize.xml.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/layout/camera_connection_fragment_stylize.xml"
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-xhdpi\\ic_action_info.png"
     },
     {
-        "merged": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_tile.9.png.flat",
-        "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/drawable-hdpi/tile.9.png"
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-hdpi\\tile.9.png"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi_ic_action_info.png.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/drawable-xhdpi/ic_action_info.png"
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_tracking.xml.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\layout\\camera_connection_fragment_tracking.xml"
     },
     {
-        "merged": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/res/merged/debug/layout_camera_connection_fragment.xml.flat",
-        "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/layout/camera_connection_fragment.xml"
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment.xml.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_stylize.xml.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\layout\\camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_tracking.xml.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\zakled\\tensorflow-for-poets-2\\android\\tfmobile\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
+        "source": "D:\\SCLUSION\\Uottahack2k18\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\zakled\\Desktop\\Calorimetry\\APK_Calori\\android\\tfmobile\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]
